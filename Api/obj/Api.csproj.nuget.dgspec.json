@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Halil\\source\\repos\\TestApi\\Api\\Api.csproj": {}
+    "C:\\Users\\Halil\\Source\\Repos\\Hellin1\\TestApi\\Api\\Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Halil\\source\\repos\\TestApi\\Api\\Api.csproj": {
+    "C:\\Users\\Halil\\Source\\Repos\\Hellin1\\TestApi\\Api\\Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Halil\\source\\repos\\TestApi\\Api\\Api.csproj",
+        "projectUniqueName": "C:\\Users\\Halil\\Source\\Repos\\Hellin1\\TestApi\\Api\\Api.csproj",
         "projectName": "Api",
-        "projectPath": "C:\\Users\\Halil\\source\\repos\\TestApi\\Api\\Api.csproj",
+        "projectPath": "C:\\Users\\Halil\\Source\\Repos\\Hellin1\\TestApi\\Api\\Api.csproj",
         "packagesPath": "C:\\Users\\Halil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Halil\\source\\repos\\TestApi\\Api\\obj\\",
+        "outputPath": "C:\\Users\\Halil\\Source\\Repos\\Hellin1\\TestApi\\Api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Halil\\AppData\\Roaming\\NuGet\\NuGet.Config",
